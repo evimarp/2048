@@ -6,8 +6,9 @@ Artificial Intelligence that plays 2048, each move is decided in less than 0.1 s
 The result is non-deterministic, however, this algo achive 2048 +45% times, and 4096 +25% times.
 I think with better heuristics, could achieve 8192 too!
 
-# Algoritms 
-This repo implements, Adversarial game and MinMax search with alpha beta pruning.
+# Algorithm 
+Adversarial game approach. 
+The computer put a tile in a random position. Implemented a MinMax search with alpha beta pruning.
 
 
 
